@@ -1,5 +1,17 @@
 {
-  "name": "upgrade",
-  "version": "1.0.0-SNAPSHOT",
-  "dependencies": {}
+	"name": "node-release-helper",
+	"version": "1.0.39",
+	"description": "版本控制助手",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"bin": {
+		"release": "index.js"
+	},
+	"author": "zwt",
+	"license": "ISC",
+	"dependencies": {
+		"node-cmd": "^3.0.0"
+	}
 }
