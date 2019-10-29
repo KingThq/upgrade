@@ -1,6 +1,6 @@
 {
 	"name": "node-release-helper",
-	"version": "1.2.2",
+	"version": "1.2.3-SNAPSHOT",
 	"description": "版本控制助手",
 	"main": "index.js",
 	"scripts": {
